@@ -1,0 +1,9 @@
+{
+  "name": "order-calculator",
+  "version": "1.0.0",
+  "main": "src/orderCalculator.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "ISC"
+}
